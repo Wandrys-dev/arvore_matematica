@@ -29,7 +29,7 @@ python --version  # Python 3.8 ou superior
 Execução Básica
 bash
 # Clone o repositório
-git clone https://github.com/Wandrys-dev/arvore-matematica.git
+git clone https://github.com/Wandrys-dev/arvore_matematica.git
 cd arvore-matematica
 
 # Execute o programa
@@ -102,7 +102,7 @@ Distribuído sob licença MIT. Veja LICENSE para mais informações.
 📧 Contato
 Wandrys - @wandrys_dev
 
-Link do Projeto: https://github.com/Wandrys-dev/arvore-matematica
+Link do Projeto: https://github.com/Wandrys-dev/arvore_matematica
 
 🙏 Agradecimentos
 Inspirado pela beleza da matemática na natureza
