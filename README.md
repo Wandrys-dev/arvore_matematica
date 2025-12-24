@@ -111,7 +111,7 @@ Comunidade Python por ferramentas incríveis
 
 Professores que mostram que matemática pode ser divertida
 
-text
+
 
 ---
 
