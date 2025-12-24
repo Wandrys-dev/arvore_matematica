@@ -115,7 +115,7 @@ Professores que mostram que matemática pode ser divertida
 
 ---
 
-## **2. LICENSE (Licença MIT)**
+## LICENSE (Licença MIT)**
 
 ```text
 MIT License
