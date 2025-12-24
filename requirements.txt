@@ -1,0 +1,7 @@
+# Para versão básica, nenhuma dependência externa necessária
+# Python 3.8+ com bibliotecas padrão é suficiente
+
+# Dependências opcionais para funcionalidades extras
+# numpy>=1.21.0  # Para cálculos matemáticos avançados
+# matplotlib>=3.5.0  # Para visualizações das fórmulas
+# pytest>=7.0.0  # Para testes
